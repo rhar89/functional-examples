@@ -1,13 +1,13 @@
 # functional-examples
 
-instructions for the example are given in the main.js file
+- instructions for the example are given in the main.js file
 
-cd into the example directory
+- cd into the example directory
 
-run 
+  run 
 
-'''
-node main.js 
-'''
+  ```
+  node main.js 
+  ```
 
-to execute the test cases
+  to execute the test cases
