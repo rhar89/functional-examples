@@ -1,0 +1,16 @@
+{
+  "testCases": [
+    {
+      "args": ["a long time ago in a galaxy far far away"],
+      "solution":  "far"
+    },
+    {
+      "args": ["wax on wax off"],
+      "solution": "wax"
+    },
+    {
+      "args": ["only"],
+      "solution": "only"
+    }
+  ]
+}

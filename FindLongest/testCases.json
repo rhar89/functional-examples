@@ -1,0 +1,16 @@
+{
+  "testCases": [
+    {
+      "args": ["a long time ago in a galaxy far far away"],
+      "solution":  "galaxy"
+    },
+    {
+      "args": ["the longest word"],
+      "solution": "longest"
+    },
+    {
+      "args": ["only"],
+      "solution": "only"
+    }
+  ]
+}

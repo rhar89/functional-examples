@@ -1,0 +1,16 @@
+{
+  "testCases": [
+    {
+      "args": ["I'm a little tea pot"],
+      "solution":  "I'm A Little Tea Pot"
+    },
+    {
+      "args": ["sHoRt AnD sToUt"],
+      "solution": "Short And Stout"
+    },
+    {
+      "args": ["HERE IS MY HANDLE HERE IS MY SPOUT"],
+      "solution": "Here Is My Handle Here Is My Spout"
+    }
+  ]
+}
